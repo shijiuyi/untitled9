@@ -1,0 +1,107 @@
+2020-05-08 11:11:27 AM - 日志对象1 - DEBUG - logging_test: debug msessage
+2020-05-08 11:11:27 AM - 日志对象1 - INFO - logging_test: info msessage
+2020-05-08 11:11:27 AM - 日志对象1 - WARNING - logging_test: warning msessage
+2020-05-08 11:11:27 AM - 日志对象1 - CRITICAL - logging_test: critical msessage
+2020-05-08 11:16:53 AM - 日志对象1 - DEBUG - logging_test: debug msessage
+2020-05-08 11:16:53 AM - 日志对象1 - INFO - logging_test: info msessage
+2020-05-08 11:16:53 AM - 日志对象1 - WARNING - logging_test: warning msessage
+2020-05-08 11:16:53 AM - 日志对象1 - CRITICAL - logging_test: critical msessage
+2020-05-08 11:16:53 AM - mother.son.grandson - ERROR - logging_test: 测试
+2020-05-08 11:18:11 AM - 日志对象1 - DEBUG - logging_test: debug msessage
+2020-05-08 11:18:11 AM - 日志对象1 - INFO - logging_test: info msessage
+2020-05-08 11:18:11 AM - 日志对象1 - WARNING - logging_test: warning msessage
+2020-05-08 11:18:11 AM - 日志对象1 - CRITICAL - logging_test: critical msessage
+2020-05-08 14:46:53 PM - 日志对象1 - DEBUG - logging_test: debug msessage
+2020-05-08 14:46:53 PM - 日志对象1 - INFO - logging_test: info msessage
+2020-05-08 14:46:53 PM - 日志对象1 - WARNING - logging_test: warning msessage
+2020-05-08 14:46:53 PM - 日志对象1 - CRITICAL - logging_test: critical msessage
+2020/05/08 14:48:04 - DEBUG :  debug msessage
+2020-05-08 14:48:04 PM - 日志对象1 - DEBUG - logging_test: debug msessage
+05-08 14:48:04 PM - 日志对象1 - INFO:  info msessage
+2020/05/08 14:48:04 - INFO :  info msessage
+2020-05-08 14:48:04 PM - 日志对象1 - INFO - logging_test: info msessage
+05-08 14:48:04 PM - 日志对象1 - WARNING:  warning msessage
+2020/05/08 14:48:04 - WARNING :  warning msessage
+2020-05-08 14:48:04 PM - 日志对象1 - WARNING - logging_test: warning msessage
+05-08 14:48:04 PM - 日志对象1 - CRITICAL:  critical msessage
+2020/05/08 14:48:04 - CRITICAL :  critical msessage
+2020-05-08 14:48:04 PM - 日志对象1 - CRITICAL - logging_test: critical msessage
+2020-05-08 15:27:02,978 - logs... - INFO - 随意打印
+2020-05-08 15:28:44,238 - logs... - INFO - error
+2020-05-08 15:29:13,317 - logs... - INFO - msg
+
+
+2020-05-08 15:59:39,777 - logs... - INFO - msg
+2020-05-08 16:08:46,691 - logs... - WARNING - msg
+2020-05-08 16:09:00,371 - logs... - WARNING - msg
+2020-05-08 16:09:04,930 - logs... - WARNING - msg
+2020-05-08 16:09:09,336 - logs... - WARNING - msg
+2020-05-08 16:09:16,421 - logs... - WARNING - msg
+2020-05-08 16:11:58,318 - logs... - DEBUG - msg
+2020-05-08 16:12:06,105 - logs... - WARNING - msg
+2020-05-08 17:24:52,687 - logs... - WARNING - msg
+2020-05-08 17:26:07,083 - logs... - WARNING - msg
+2020-05-08 17:26:59,618 - logs... - WARNING - msg
+2020-05-08 17:40:44,409 - logs... - WARNING - msg
+2020-05-08 17:44:38,425 - logs... - WARNING - msg
+2020-05-08 17:46:22,292 - logs... - WARNING - msg
+2020-05-08 17:55:25,723 - logs... - WARNING - msg
+2020-05-08 17:56:24,151 - logs... - WARNING - msg
+2020-05-08 17:58:19,061 - logs... - WARNING - msg
+2020-05-08 18:03:15,838 - logs... - WARNING - msg
+2020-05-08 18:03:48,027 - logs... - WARNING - msg
+2020-05-08 18:05:52,362 - logs... - WARNING - msg
+2020-05-08 18:07:37,750 - logs... - WARNING - msg
+2020-05-08 18:08:58,442 - logs... - WARNING - msg
+2020-05-08 18:11:55,337 - logs... - WARNING - msg
+2020-05-08 18:12:20,067 - logs... - WARNING - msg
+2020-05-08 18:14:20,522 - logs... - WARNING - msg
+2020-05-08 18:17:36,757 - logs... - WARNING - msg
+2020-05-09 09:01:45,380 - logs... - WARNING - msg
+2020-05-09 09:22:19,888 - logs... - WARNING - msg
+2020-05-09 09:24:11,968 - logs... - WARNING - msg
+2020-05-09 09:28:51,827 - logs... - WARNING - msg
+2020-05-09 09:31:56,748 - logs... - WARNING - msg
+2020-05-09 09:41:47,836 - logs... - WARNING - msg
+2020-05-09 09:50:52,502 - logs... - WARNING - msg
+2020-05-09 09:52:44,442 - logs... - WARNING - msg
+2020-05-09 10:37:51,186 - logs... - WARNING - msg
+2020-05-09 10:41:21,746 - logs... - WARNING - msg
+2020-05-09 10:43:30,898 - logs... - WARNING - msg
+2020-05-09 10:45:04,604 - logs... - WARNING - msg
+2020-05-09 10:47:46,250 - logs... - WARNING - msg
+2020-05-09 10:49:16,124 - logs... - WARNING - msg
+2020-05-09 10:50:01,691 - logs... - WARNING - msg
+2020-05-09 10:56:00,882 - logs... - WARNING - msg
+2020-05-09 11:07:47,050 - logs... - WARNING - msg
+2020-05-09 11:09:06,179 - logs... - WARNING - msg
+2020-05-09 11:13:07,584 - logs... - WARNING - msg
+2020-05-09 11:13:41,527 - logs... - WARNING - msg
+2020-05-09 11:14:47,599 - logs... - WARNING - msg
+2020-05-09 11:15:13,903 - logs... - WARNING - msg
+2020-05-09 11:16:09,518 - logs... - WARNING - msg
+2020-05-09 11:18:05,076 - logs... - WARNING - msg
+2020-05-09 11:18:58,718 - logs... - WARNING - msg
+2020-05-09 11:22:05,305 - logs... - WARNING - msg
+2020-05-09 11:22:48,244 - logs... - WARNING - msg
+2020-05-09 11:25:07,633 - logs... - WARNING - msg
+2020-05-09 11:30:27,861 - logs... - WARNING - msg
+2020-05-09 11:31:16,361 - logs... - WARNING - msg
+2020-05-09 11:35:01,988 - logs... - WARNING - msg
+2020-05-09 11:37:46,122 - logs... - WARNING - msg
+2020-05-09 11:38:39,281 - logs... - WARNING - msg
+2020-05-09 11:41:13,966 - logs... - WARNING - msg
+2020-05-09 11:42:11,227 - logs... - WARNING - msg
+2020-05-09 11:42:34,017 - logs... - WARNING - msg
+2020-05-09 11:53:29,010 - logs... - WARNING - msg
+2020-05-09 11:54:07,655 - logs... - WARNING - msg
+2020-05-09 11:55:44,610 - logs... - WARNING - msg
+2020-05-09 11:58:08,554 - logs... - WARNING - msg
+2020-05-09 12:02:31,943 - logs... - WARNING - msg
+2020-05-09 12:04:23,767 - logs... - WARNING - msg
+2020-05-09 12:04:59,418 - logs... - WARNING - msg
+2020-05-09 14:37:05,674 - logs... - WARNING - msg
+2020-05-09 14:39:14,359 - logs... - WARNING - msg
+2020-05-09 14:40:01,791 - logs... - WARNING - msg
+2020-05-09 14:40:43,206 - logs... - WARNING - msg
+2020-05-09 14:41:35,116 - logs... - WARNING - msg
